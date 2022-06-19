@@ -1,0 +1,83 @@
+[
+  {
+    "supplierName": "test",
+    "contacts": "tiezhu",
+    "post": "经理",
+    "telephone": "12345678910",
+    "mailbox": "824618906@qq.com",
+    "algoEmpower": [
+      {
+        "algoName": "表情包",
+        "onLineDate": "2022.4.15"
+      },
+      {
+        "algoName": "表情包",
+        "onLineDate": "2022.4.15"
+      }
+    ],
+    "userEmpower": [
+      {
+        "userName": "tiezhu",
+        "empowerDate": "2022.2.12"
+      },
+      {
+        "userName": "tiezhu",
+        "empowerDate": "2022.2.12"
+      }
+    ]
+  },
+  {
+    "supplierName": "test1",
+    "contacts": "tiezhu",
+    "post": "经理",
+    "telephone": "12345678910",
+    "mailbox": "824618906@qq.com",
+    "algoEmpower": [
+      {
+        "algoName": "表情包",
+        "onLineDate": "2022.4.15"
+      },
+      {
+        "algoName": "表情包",
+        "onLineDate": "2022.4.15"
+      }
+    ],
+    "userEmpower": [
+      {
+        "userName": "tiezhu",
+        "empowerDate": "2022.2.12"
+      },
+      {
+        "userName": "tiezhu",
+        "empowerDate": "2022.2.12"
+      }
+    ]
+  },
+  {
+    "supplierName": "test2",
+    "contacts": "tiezhu",
+    "post": "经理",
+    "telephone": "12345678910",
+    "mailbox": "824618906@qq.com",
+    "algoEmpower": [
+      {
+        "algoName": "表情包",
+        "onLineDate": "2022.4.15"
+      },
+      {
+        "algoName": "表情包",
+        "onLineDate": "2022.4.15"
+      }
+    ],
+    "userEmpower": [
+      {
+        "userName": "tiezhu",
+        "empowerDate": "2022.2.12"
+      },
+      {
+        "userName": "tiezhu",
+        "empowerDate": "2022.2.12"
+      }
+    ]
+  }
+]

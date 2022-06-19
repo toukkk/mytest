@@ -1,0 +1,24 @@
+  [
+    {
+      "url": "@/assets/image/logo.png",
+      "algoId": "1245",
+      "algoName": "表情包",
+      "algoType": "图片类",
+      "algoEdition": "v1.2.3",
+      "algoTime": "2022-5-6 6:00:00",
+      "algoSupplier": "test",
+      "algoState": true,
+      "subscribe": true
+    },
+    {
+      "url": "@/assets/image/logo.png",
+      "algoId": "1246",
+      "algoName": "test",
+      "algoType": "图片类",
+      "algoEdition": "v1.2.3",
+      "algoTime": "2022-5-6 6:00:00",
+      "algoSupplier": "test",
+      "algoState": true,
+      "subscribe": false
+    }
+  ]

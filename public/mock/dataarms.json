@@ -1,0 +1,318 @@
+{
+  "tool": {
+    "head": [
+      {
+        "name": "包分头",
+        "part": "head",
+        "maths": [
+          {
+            "attribute": "攻击力",
+            "val": 70
+          },
+          {
+            "attribute": "防御力",
+            "val": 58
+          },
+          {
+            "attribute": "法力",
+            "val": 23
+          },
+          {
+            "attribute": "血量",
+            "val": 87
+          }
+        ],
+        "url": "require('@/assets/image/4.jpeg')"
+      },
+      {
+        "name": "满足头",
+        "part": "head",
+        "maths": [
+          {
+            "attribute": "攻击力",
+            "val": 70
+          },
+          {
+            "attribute": "防御力",
+            "val": 58
+          },
+          {
+            "attribute": "法力",
+            "val": 23
+          },
+          {
+            "attribute": "血量",
+            "val": 87
+          }
+        ],
+        "url": "require('@/assets/image/4.jpeg')"
+      }
+    ],
+    "necklace": [
+      {
+        "name": "包分项链",
+        "part": "necklace",
+        "maths": [
+          {
+            "attribute": "攻击力",
+            "val": 70
+          },
+          {
+            "attribute": "防御力",
+            "val": 58
+          },
+          {
+            "attribute": "法力",
+            "val": 23
+          },
+          {
+            "attribute": "血量",
+            "val": 87
+          }
+        ],
+        "url": "require('@/assets/image/4.jpeg')"
+      },
+      {
+        "name": "满足项链",
+        "part": "necklace",
+        "maths": [
+          {
+            "attribute": "攻击力",
+            "val": 70
+          },
+          {
+            "attribute": "防御力",
+            "val": 58
+          },
+          {
+            "attribute": "法力",
+            "val": 23
+          },
+          {
+            "attribute": "血量",
+            "val": 87
+          }
+        ],
+        "url": "require('@/assets/image/4.jpeg')"
+      }
+    ],
+    "nail": [
+      {
+        "name": "包分甲",
+        "part": "nail",
+        "maths": [
+          {
+            "attribute": "攻击力",
+            "val": 70
+          },
+          {
+            "attribute": "防御力",
+            "val": 58
+          },
+          {
+            "attribute": "法力",
+            "val": 23
+          },
+          {
+            "attribute": "血量",
+            "val": 87
+          }
+        ],
+        "url": "require('@/assets/image/4.jpeg')"
+      },
+      {
+        "name": "满足甲",
+        "part": "nail",
+        "maths": [
+          {
+            "attribute": "攻击力",
+            "val": 70
+          },
+          {
+            "attribute": "防御力",
+            "val": 58
+          },
+          {
+            "attribute": "法力",
+            "val": 23
+          },
+          {
+            "attribute": "血量",
+            "val": 87
+          }
+        ],
+        "url": "require('@/assets/image/4.jpeg')"
+      }
+    ],
+    "knife": [
+      {
+        "name": "包分刀",
+        "part": "knife",
+        "maths": [
+          {
+            "attribute": "攻击力",
+            "val": 70
+          },
+          {
+            "attribute": "防御力",
+            "val": 58
+          },
+          {
+            "attribute": "法力",
+            "val": 23
+          },
+          {
+            "attribute": "血量",
+            "val": 87
+          }
+        ],
+        "url": "require('@/assets/image/4.jpeg')"
+      },
+      {
+        "name": "满足刀",
+        "part": "knife",
+        "maths": [
+          {
+            "attribute": "攻击力",
+            "val": 70
+          },
+          {
+            "attribute": "防御力",
+            "val": 58
+          },
+          {
+            "attribute": "法力",
+            "val": 23
+          },
+          {
+            "attribute": "血量",
+            "val": 87
+          }
+        ],
+        "url": "require('@/assets/image/4.jpeg')"
+      }
+    ],
+    "ring": [
+      {
+        "name": "包分戒指",
+        "part": "ring",
+        "maths": [
+          {
+            "attribute": "攻击力",
+            "val": 70
+          },
+          {
+            "attribute": "防御力",
+            "val": 58
+          },
+          {
+            "attribute": "法力",
+            "val": 23
+          },
+          {
+            "attribute": "血量",
+            "val": 87
+          }
+        ],
+        "url": "require('@/assets/image/4.jpeg')"
+      },
+      {
+        "name": "满足戒指",
+        "part": "ring",
+        "maths": [
+          {
+            "attribute": "攻击力",
+            "val": 70
+          },
+          {
+            "attribute": "防御力",
+            "val": 58
+          },
+          {
+            "attribute": "法力",
+            "val": 23
+          },
+          {
+            "attribute": "血量",
+            "val": 87
+          }
+        ],
+        "url": "require('@/assets/image/4.jpeg')"
+      }
+    ],
+    "shoes": [
+      {
+        "name": "包分鞋",
+        "part": "shoes",
+        "maths": [
+          {
+            "attribute": "攻击力",
+            "val": 70
+          },
+          {
+            "attribute": "防御力",
+            "val": 58
+          },
+          {
+            "attribute": "法力",
+            "val": 23
+          },
+          {
+            "attribute": "血量",
+            "val": 87
+          }
+        ],
+        "url": "require('@/assets/image/4.jpeg')"
+      },
+      {
+        "name": "满足鞋",
+        "part": "shoes",
+        "maths": [
+          {
+            "attribute": "攻击力",
+            "val": 70
+          },
+          {
+            "attribute": "防御力",
+            "val": 58
+          },
+          {
+            "attribute": "法力",
+            "val": 23
+          },
+          {
+            "attribute": "血量",
+            "val": 87
+          }
+        ],
+        "url": "require('@/assets/image/4.jpeg')"
+      }
+    ]
+  },
+  "part": [
+    {
+      "option": "head",
+      "url": "require('@/assets/image/avatar.jpeg')"
+    },
+    {
+      "option": "necklace",
+      "url": "require('@/assets/image/avatar.jpeg')"
+    },
+    {
+      "option": "nail",
+      "url": "require('@/assets/image/avatar.jpeg')"
+    },
+    {
+      "option": "knife",
+      "url": "require('@/assets/image/avatar.jpeg')"
+    },
+    {
+      "option": "ring",
+      "url": "require('@/assets/image/avatar.jpeg')"
+    },
+    {
+      "option": "shoes",
+      "url": "require('@/assets/image/avatar.jpeg')"
+    }
+  ]
+}
